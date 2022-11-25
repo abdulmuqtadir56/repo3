@@ -1,1 +1,3 @@
-jwdijjfoofosfojfsjsfoos
+Welcome
+Hello
+Today is Friday
